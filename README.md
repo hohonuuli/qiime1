@@ -1,3 +1,4 @@
+![MBARI logo](logo-mbari-3b.png)
 # qiime1
 
 [Docker](https://www.docker.com/) container with [Anaconda](https://www.continuum.io/), [qiime](http://qiime.org/), [R](https://www.r-project.org/), [Java](http://openjdk.java.net/), [RDP Classifier](https://github.com/rdpstaff/classifier), [ChimeraSlayer](http://microbiomeutil.sourceforge.net/), [Mothur](https://www.mothur.org/), [Muscle](http://www.mybiosoftware.com/muscle-3-8-31-multiple-sequence-alignment.html), [rtax](http://qiime.org/tutorials/rtax.html), and [Swarm](https://github.com/torognes/swarm).
