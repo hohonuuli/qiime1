@@ -11,7 +11,7 @@ To start an interactive session, first start a bash shell into the container.
 
 ```
 docker pull mbari/qiime1
-docker run --name qiime1 -v /Path/to/data:/mnt/data -i -t mbari/qiime1 /bash/bin
+docker run --name qiime1 -v /Path/to/data:/mnt/data -i -t mbari/qiime1 /bin/bash
 ```
 
 Once inside the container you just need to run:
